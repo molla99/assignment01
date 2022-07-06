@@ -1,0 +1,178 @@
+#banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), #0f4b45);
+    background-image: url(images/donation13.png);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    padding-bottom: 10px;
+}
+
+.banner-text {
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+}
+
+.banner-text h1 {
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-text p {
+    text-align: center;
+    padding: 10%;
+    padding-top: 10px;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.banner-button {
+    margin-bottom: 10px;
+}
+
+.banner-button a {
+    width: 150px;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 12px 5px;
+    color: white;
+    border-radius: 5px;
+    background-color: #ff5959;
+}
+
+#Donation {
+    width: 100%;
+    padding: 70px;
+}
+
+.Donation-Section {
+    text-align: center;
+    padding-bottom: 70px;
+
+}
+
+.Donation-Section p {
+    margin: auto;
+    font-weight: 200;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+
+.donation-collect {
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+.Donation-Section h2 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.Donate-plan {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.Donate-plan h1 {
+    font-size: 50px;
+}
+
+.Donate-plan p {
+    font-size: 20px;
+}
+
+.row {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.collumn {
+    flex-basis: 30%;
+    background: #fff3f3;
+    border-radius: 10px;
+    border-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+
+h3 {
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.contribute {
+    display: flex;
+    margin-top: 150px;
+}
+
+.text-picture {
+    width: 50%;
+    padding: 5%;
+}
+
+.text-picture img {
+    width: 80%;
+}
+
+.contribute-question {
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+.Updates {
+    font-size: 30px;
+    text-align: center;
+    padding-left: 10px;
+    margin-top: 70px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Updates-2 {
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.email-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    padding: 20px;
+}
+
+.form-box {
+    padding: 20px 30px;
+    border-radius: 5px;
+    background: #d9d9d9;
+    box-shadow: 10px 10px 10px gray;
+}
+
+.form-box button {
+    background: #ff5959;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 150px;
+}
+
+.footer-content {
+    text-align: center;
+    padding-top: 50px;
+}
